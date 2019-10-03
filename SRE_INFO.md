@@ -7,3 +7,5 @@ administered by the Mozilla IT SRE team. We are available on #it-sre on slack.
 The file blocklist.txt should contain CIDRs, one per-line of IP/Networks we wish to have blocked at the edge
 
 Currently, only nubis-nat automatically fetches from here
+
+No comments allowed, only the top 20 entries will be used
